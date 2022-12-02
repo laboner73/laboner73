@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @laboner73
+- 👀 I’m interested in C, Python and SQL
+- 🌱 I’m currently improve my skills in every language
